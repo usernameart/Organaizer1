@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">organaizer</string>
+    <string name="buttonint">Калькулятор</string>
+    <string name="spisok">список</string>
+</resources>
